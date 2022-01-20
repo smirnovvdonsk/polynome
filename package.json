@@ -1,0 +1,12 @@
+{
+  "name": "@smirnovvdonsk/polynome",
+  "version": "1.0.0",
+  "description": "A polynome a+bx+cx²+dx³+... given by coefficients coeffs=[a,b,c,d...] with methods of finding roots, interpolation, differentiation and more",
+  "type":"module",
+  "main": "index.js",
+  "author": {
+    "name": "smirnovvdonsk",
+    "email": "smirnovvdonsk@mail.ru"
+  },
+  "license": "MIT"
+}

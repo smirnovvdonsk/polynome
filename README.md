@@ -4,7 +4,7 @@ A polynome ```a+bx+cx²+dx³+...``` given by coefficients ```coeffs=[a,b,c,d...]
 
 Example:
 ```js
-import Polynome from "./index.js"
+import Polynome from "@smirnovvdonsk/polynome"
 
 // Create a new polynome 20+38x-36x²+6x³
 // (there can be as many members and degrees as you want)

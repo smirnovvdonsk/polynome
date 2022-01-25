@@ -6,7 +6,7 @@ Example:
 ```js
 import Polynome from "@smirnovvdonsk/polynome"
 
-// Create a new polynome 20+38x-36x²+6x³
+// Create a new polynome 20+38x-35x²+6x³
 // (there can be as many members and degrees as you want)
 let expr1 = new Polynome([20, 38, -35, 6])
 

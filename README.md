@@ -42,7 +42,7 @@ let points = roots1
 
 let expr2 = Polynome.lagrangeInterpolate(points)
 
-// Compare two polynomes: the original and interpolated from roots one
+// Compare two polynomes: the original and interpolated one
 console.log(expr1.coeffs) // [ 20,       38,       -35, 6               ]
 console.log(expr2.coeffs) // [ 20.00..., 38.00..., -35,	5.99..., 4.4e-16]
 // they are very close to each other, and the last new extra member is very close to zero
